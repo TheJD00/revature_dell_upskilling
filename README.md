@@ -2,9 +2,6 @@
 
 This repository contains several independent Scala and Apache Spark learning projects.
 
-## Source and attribution
-
-This repository republishes content from [ShanmukhaAaryasree/dell_upskilling](https://github.com/ShanmukhaAaryasree/dell_upskilling) with the original creator's permission. The Git history is not included in this copy.
 
 ## Projects
 
